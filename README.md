@@ -20,5 +20,9 @@ Yolov5 모델을 활용한 흡연 탐지율 성능 개량
 4. 클래스에 맞는 라벨링 이미지에 Boundary에 Data Augmentation을 적용한 데이터셋 작업을 병행했습니다.
 5. 문서작업 및 세부 명세는 E-Class로 캡스톤 디자인 전시회 측에 제출했습니다.
 
+###데이터셋
+[Google Drive Folder](https://drive.google.com/drive/folders/1CK9CBdjGkqdridDuVtVOxZ3VvM1AfUwo?usp=sharing)
+
+
 
 
